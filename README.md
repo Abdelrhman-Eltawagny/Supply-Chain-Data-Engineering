@@ -59,6 +59,10 @@ Loaded all tables into an SQLite database for query analysis.
 
 - DimShipment: Shipment details (mode, delay status, days scheduled)
 
+![download](https://github.com/user-attachments/assets/3ba5b24f-aed0-4e44-af3f-0f4d2beff41a)
+
+
+
 # 📊 Power BI Insights
 
 The analytical dashboard provides:
@@ -70,6 +74,9 @@ The analytical dashboard provides:
 - Average Scheduled vs Actual Days: Evaluate delivery performance by shipment status.
 
 - Late vs On-time % by Shipment Mode: Assess the reliability of each shipment method.
+
+<img width="1327" height="752" alt="image" src="https://github.com/user-attachments/assets/bd43e20c-9778-45eb-bf4e-4c4cc6afb365" />
+
 
 
 # 🧠 Key Learnings
